@@ -12,8 +12,6 @@ track of the time you spend on the test as we will discuss your test results bas
 time you spent on it. If you finish fast and provide the minimum requirements that's fine, if you prefer to go over 
 expectations and take longer that is fine too. Both are acceptable results for this test.
 
-If you encounter issues or if you have questions don't hesitate to reach out by e-mail to alexandre.jutras@novisto.com.
-
 
 ## What do you need to do? 
 
